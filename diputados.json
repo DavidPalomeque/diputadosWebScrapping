@@ -1,0 +1,50 @@
+{
+    "name": [
+        ". NO INCORPORADO Legislador 1",
+        "ABDALA DE MATARAZZO Norma Amanda",
+        "AGUIRRE Hilda Clelia",
+        "AICEGA Juan",
+        "ALDERETE Juan Carlos",
+        "ALLENDE Walberto Enrique",
+        "ALUME SBODIO Karim Augusto",
+        "ÁLVAREZ RODRIGUEZ María Cristina",
+        "ÁLVAREZ Felipe",
+        "AMAYA Domingo"
+    ],
+    "politicalParty": [
+        "PRO",
+        "Frente de Todos",
+        "Frente de Todos",
+        "PRO",
+        "Frente de Todos",
+        "Frente de Todos",
+        "Frente de Todos",
+        "Frente de Todos",
+        "Producción y Trabajo",
+        "PRO"
+    ],
+    "province": [
+        "Buenos Aires",
+        "Santiago del Estero",
+        "La Rioja",
+        "Buenos Aires",
+        "Buenos Aires",
+        "San Juan",
+        "San Luis",
+        "Buenos Aires",
+        "La Rioja",
+        "Tucumán"
+    ],
+    "vote": [
+        " AUSENTE",
+        " AFIRMATIVO",
+        " AFIRMATIVO",
+        " NEGATIVO",
+        " AFIRMATIVO",
+        " AFIRMATIVO",
+        " AFIRMATIVO",
+        " AFIRMATIVO",
+        " AUSENTE",
+        " NEGATIVO"
+    ]
+}
